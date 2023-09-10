@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JGjUeReDZASuATNi3fzFaQGGwAprJw2XjjwZGTYtRqw=",
+  "Source": "istTask",
+  "BasePath": "_content/istTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
