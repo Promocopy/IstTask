@@ -15,7 +15,7 @@ namespace istTask.Controllers
             var user = new
             {
                 slack_name = slack_name,
-                current_Day = DateTime.UtcNow.DayOfWeek.ToString(),  
+                current_day = DateTime.UtcNow.DayOfWeek.ToString(),  
                 utc_time = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ"),
                 track = track.ToLower(),
                 github_file_url= "https://github.com/Promocopy/istTask/blob/master/istTask/Controllers/TaskController.cs",
